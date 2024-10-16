@@ -1,0 +1,19 @@
+# ninja log v6
+7	132	7482825224277084	CMakeFiles/debugging.dir/main.c.obj	affdcbc025f78923
+133	340	7482825225543618	debugging.exe	f77a2ed80dfdb668
+7	142	7482826120377745	CMakeFiles/debugging.dir/main.c.obj	affdcbc025f78923
+143	311	7482826121742032	debugging.exe	f77a2ed80dfdb668
+10	183	7482826478282523	CMakeFiles/debugging.dir/main.c.obj	affdcbc025f78923
+184	379	7482826480022534	debugging.exe	f77a2ed80dfdb668
+7	144	7482826599981592	CMakeFiles/debugging.dir/main.c.obj	affdcbc025f78923
+145	314	7482826601350644	debugging.exe	f77a2ed80dfdb668
+8	143	7482826741965835	CMakeFiles/debugging.dir/main.c.obj	affdcbc025f78923
+156	346	7482826743448045	debugging.exe	f77a2ed80dfdb668
+8	167	7482826850223744	CMakeFiles/debugging.dir/main.c.obj	affdcbc025f78923
+168	321	7482826851825981	debugging.exe	f77a2ed80dfdb668
+8	148	7482827031081312	CMakeFiles/debugging.dir/main.c.obj	affdcbc025f78923
+149	342	7482827032492168	debugging.exe	f77a2ed80dfdb668
+6	123	7482841368014603	CMakeFiles/debugging.dir/main.c.obj	affdcbc025f78923
+124	270	7482841369200988	debugging.exe	f77a2ed80dfdb668
+13	212	7483479755778062	CMakeFiles/debugging.dir/main.c.obj	affdcbc025f78923
+213	392	7483479757782333	debugging.exe	f77a2ed80dfdb668

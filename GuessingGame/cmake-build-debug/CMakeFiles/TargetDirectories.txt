@@ -1,0 +1,3 @@
+C:/Projects/C/GuessingGame/cmake-build-debug/CMakeFiles/GuessingGame.dir
+C:/Projects/C/GuessingGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/C/GuessingGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir

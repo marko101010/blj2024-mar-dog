@@ -1,0 +1,18 @@
+# ninja log v6
+4	170	7488739279874560	CMakeFiles/Taschenrechner.dir/main.c.obj	739a82fce28997ec
+9	141	7488741758007980	CMakeFiles/Taschenrechner.dir/main.c.obj	739a82fce28997ec
+142	364	7488741759347907	Taschenrechner.exe	2f5d235270121f42
+8	160	7488744847917110	CMakeFiles/Taschenrechner.dir/main.c.obj	739a82fce28997ec
+161	321	7488744849450939	Taschenrechner.exe	2f5d235270121f42
+9	168	7488745219023739	CMakeFiles/Taschenrechner.dir/main.c.obj	739a82fce28997ec
+169	347	7488745220616834	Taschenrechner.exe	2f5d235270121f42
+7	150	7488745557936534	CMakeFiles/Taschenrechner.dir/main.c.obj	739a82fce28997ec
+151	324	7488745559382111	Taschenrechner.exe	2f5d235270121f42
+8	167	7488746151577512	CMakeFiles/Taschenrechner.dir/main.c.obj	739a82fce28997ec
+168	360	7488746153183435	Taschenrechner.exe	2f5d235270121f42
+8	155	7488746290796448	CMakeFiles/Taschenrechner.dir/main.c.obj	739a82fce28997ec
+156	343	7488746292274235	Taschenrechner.exe	2f5d235270121f42
+9	163	7488746519560588	CMakeFiles/Taschenrechner.dir/main.c.obj	739a82fce28997ec
+164	350	7488746521100119	Taschenrechner.exe	2f5d235270121f42
+9	145	7488747114388558	CMakeFiles/Taschenrechner.dir/main.c.obj	739a82fce28997ec
+147	360	7488747115775529	Taschenrechner.exe	2f5d235270121f42
