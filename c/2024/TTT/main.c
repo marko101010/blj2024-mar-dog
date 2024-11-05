@@ -4,7 +4,7 @@ int field [3][3] = {{0}};
 
 void printField();
 
-void setField();
+void setField(int player);
 
 int main() {
     printf("Welcome to the Tic Tac Toe Game!!!!!\n");
@@ -12,7 +12,9 @@ int main() {
 
     while(1) {
         printField();
-        setField();
+        setField(1);
+        printField();
+        setField(2);
     }
     return 0;
 }
@@ -24,7 +26,7 @@ int main() {
             printf("\n");
         }
     }
-        void setField() {
+        void setField(int player) {
             printf("Choose an x coordinate \n");
             int x = -1;
             scanf(" %d", &x);
@@ -33,7 +35,7 @@ int main() {
             int y = -1;
             scanf(" %d", &y);
 
-            field [x] [y] = 1;
+            field [x] [y] = player;
         }
 
 
