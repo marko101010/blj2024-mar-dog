@@ -25,18 +25,31 @@ int main() {
             }
             printf("\n");
         }
+
     }
-        void setField(int player) {
-            printf("Choose an x coordinate \n");
-            int x = -1;
-            scanf(" %d", &x);
 
-            printf("Choose an y coordinate \n");
-            int y = -1;
-            scanf(" %d", &y);
+void setField(int player) {
+    while (1) {
+        printf("Choose an x coordinate \n");
+        int x = -1;
+        scanf(" %d", &x);
 
-            field [x] [y] = player;
+        printf("Choose an y coordinate \n");
+        int y = -1;
+        scanf(" %d", &y);
+
+        if (field [x] [y] != 0) {
+            printf("Ups es hat ein Fehler gegeben!\n");
         }
+        else {
+            field [x] [y] = player;
+            return;
+        }
+    }
+
+
+}
+
 
 
 
